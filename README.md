@@ -52,12 +52,26 @@ john --show myhashes.txt
 2. **Attack Mode Selection** – Choose between dictionary, brute force, or hybrid.
 3. **Cracking Phase** – John the Ripper runs through candidate passwords.
 4. **Password Recovery** – Successfully cracked passwords are displayed.
+
+## Save A file named hello.txt :
+## Encrypt with password the file 
+
+
 <img width="650" height="505" alt="image" src="https://github.com/user-attachments/assets/739d6347-f29a-4a43-8eba-dee99cb86005" />
 
+
+
+## Run john helper:
 
 <img width="903" height="437" alt="image" src="https://github.com/user-attachments/assets/7a390024-ad80-4522-99d0-55ecec5c411b" />
 
 
+## In john terminal change the directory 
+
+## Use Zip2john command  
+```bash
+zip2jhon bello.txt.zip > hash.txt
+```
 
 
 <img width="912" height="522" alt="image" src="https://github.com/user-attachments/assets/361367aa-cba6-4b69-b025-72f263024bfc" />
