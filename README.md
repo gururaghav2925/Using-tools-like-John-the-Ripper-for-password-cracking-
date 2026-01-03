@@ -1,4 +1,4 @@
-# Using-tools-like-John-the-Ripper-for-password-cracking
+# Ex No : 7 Using-tools-like-John-the-Ripper-for-password-cracking
 ## AIM:
 To crack password hashes using John the Ripper in Kali Linux.
 ## REQUIREMENTS:
